@@ -1,9 +1,18 @@
 # 👩🏽‍💻Tailane Bianca 
-**`Estudante | Desenvolvedora Back-End`**
+**`Desenvolvedora Back-End | ADS`**
 
-Me chamo Tailane, tenho 26 anos e sou natural de Sao José dos Campos-SP. Recentemente me formei no curso de Análise e Desenvolvimento de Sistemas na UNIFEOB em parceria com a UNIVAP. Atualmente, estou focada na transição para a área de tecnologia voltada para o Desenvolvimento Back-end através da plataforma de cursos ALURA. Adoro o desafio de construir as estruturas invisíveis que fazem as aplicações funcionarem com eficiência e segurança.
+Olá! Meu nome é Tailane, tenho 26 anos e sou natural de São José dos Campos-SP. Recentemente, me formei em Análise e Desenvolvimento de Sistemas pela UNIFEOB em parceria com a UNIVAP.
 
-###  🌱 No momento, aprofundando meus conhecimentos em
+Atualmente, estou focada na minha transição para a área de tecnologia, especializando-me em Desenvolvimento Back-end através da Alura. Adoro o desafio de construir as estruturas "invisíveis" que garantem que as aplicações funcionem com eficiência e segurança.
+
+🎓 Formação: Tecnóloga em ADS.
+
+🌱 No momento: Aprofundando meus conhecimentos em Python e Javascript.
+
+🤖 Linguagens e Tecnologias
+
+🔹Linguagens: Python, JavaScript (Node.js)
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -11,14 +20,6 @@ Me chamo Tailane, tenho 26 anos e sou natural de Sao José dos Campos-SP. Recent
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
@@ -31,7 +32,34 @@ Me chamo Tailane, tenho 26 anos e sou natural de Sao José dos Campos-SP. Recent
 
 <br/>
 <br/>
+🔹Ferramentas: Git, GitHub, VS Code
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vscode" 
+    title="Vscode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://api.devicons.dev.br/icon?icons=VSCode&size=48&theme=dark&perline=30" 
+/>
+<br/>
+<br/>
 
 ### 📫🔔 Contatos
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiteclog@gmail.com)  [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tailane-bianca-ba32b33a2/)
-
