@@ -1,7 +1,7 @@
 # 👩🏽‍💻Tailane Bianca 
 **`Desenvolvedora Back-End | ADS`**
 
-Olá! Meu nome é Tailane, tenho 26 anos e sou natural de São José dos Campos-SP. Recentemente, me formei em Análise e Desenvolvimento de Sistemas pela UNIFEOB em parceria com a UNIVAP.
+Olá! Meu nome é Tailane, tenho 27 anos e sou natural de São José dos Campos-SP. Recentemente, me formei em Análise e Desenvolvimento de Sistemas pela UNIFEOB em parceria com a UNIVAP.
 
 Atualmente, estou focada na minha transição para a área de tecnologia, especializando-me em Desenvolvimento Back-end através da Alura. Adoro o desafio de construir as estruturas "invisíveis" que garantem que as aplicações funcionem com eficiência e segurança.
 
